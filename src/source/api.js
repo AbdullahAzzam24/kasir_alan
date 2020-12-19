@@ -38,7 +38,7 @@ export const products = [
     id: 6,
     name: 'Pizza',
     imgUri:
-      'https://www.istockphoto.com/photo/hot-pizza-slice-with-melted-mozzarella-cheese-and-tomato-on-black-concrete-background-gm903663384-249228359',
+      'https://media.istockphoto.com/photos/pepperoni-pizza-composition-picture-id1054829738?k=6&m=1054829738&s=612x612&w=0&h=nhvEKxzegohOcqvl8hFfpPwfBtT0taRgTaCnHhbX-6k=',
     price: 36000,
   },
   {
